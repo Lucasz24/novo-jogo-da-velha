@@ -1,0 +1,16 @@
+C:\Users\LUCASVIEGASDEFREITAS\Documents\Lucas\JogoDaVelha\bin\Debug\net8.0-windows\JogoDaVelha.exe
+C:\Users\LUCASVIEGASDEFREITAS\Documents\Lucas\JogoDaVelha\bin\Debug\net8.0-windows\JogoDaVelha.deps.json
+C:\Users\LUCASVIEGASDEFREITAS\Documents\Lucas\JogoDaVelha\bin\Debug\net8.0-windows\JogoDaVelha.runtimeconfig.json
+C:\Users\LUCASVIEGASDEFREITAS\Documents\Lucas\JogoDaVelha\bin\Debug\net8.0-windows\JogoDaVelha.dll
+C:\Users\LUCASVIEGASDEFREITAS\Documents\Lucas\JogoDaVelha\bin\Debug\net8.0-windows\JogoDaVelha.pdb
+C:\Users\LUCASVIEGASDEFREITAS\Documents\Lucas\JogoDaVelha\obj\Debug\net8.0-windows\JogoDaVelha.Form1.resources
+C:\Users\LUCASVIEGASDEFREITAS\Documents\Lucas\JogoDaVelha\obj\Debug\net8.0-windows\JogoDaVelha.csproj.GenerateResource.cache
+C:\Users\LUCASVIEGASDEFREITAS\Documents\Lucas\JogoDaVelha\obj\Debug\net8.0-windows\JogoDaVelha.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LUCASVIEGASDEFREITAS\Documents\Lucas\JogoDaVelha\obj\Debug\net8.0-windows\JogoDaVelha.AssemblyInfoInputs.cache
+C:\Users\LUCASVIEGASDEFREITAS\Documents\Lucas\JogoDaVelha\obj\Debug\net8.0-windows\JogoDaVelha.AssemblyInfo.cs
+C:\Users\LUCASVIEGASDEFREITAS\Documents\Lucas\JogoDaVelha\obj\Debug\net8.0-windows\JogoDaVelha.csproj.CoreCompileInputs.cache
+C:\Users\LUCASVIEGASDEFREITAS\Documents\Lucas\JogoDaVelha\obj\Debug\net8.0-windows\JogoDaVelha.dll
+C:\Users\LUCASVIEGASDEFREITAS\Documents\Lucas\JogoDaVelha\obj\Debug\net8.0-windows\refint\JogoDaVelha.dll
+C:\Users\LUCASVIEGASDEFREITAS\Documents\Lucas\JogoDaVelha\obj\Debug\net8.0-windows\JogoDaVelha.pdb
+C:\Users\LUCASVIEGASDEFREITAS\Documents\Lucas\JogoDaVelha\obj\Debug\net8.0-windows\JogoDaVelha.genruntimeconfig.cache
+C:\Users\LUCASVIEGASDEFREITAS\Documents\Lucas\JogoDaVelha\obj\Debug\net8.0-windows\ref\JogoDaVelha.dll
